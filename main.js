@@ -44,9 +44,10 @@ math = high - "5";
 // The answer shoud not be written in a comment.
 var born = 1984;
 var today = 2017;
-// A:
-      var age = today - born;
-      var timAge = givenName + " is " + age + " years old";
+// A: var age = givenName + " is " + (today - born) + " years old";
+
+
+
 
 
 // 8.
