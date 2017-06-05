@@ -73,7 +73,7 @@ var myNumber = 10;
 var myString = "Cool beans";
 var myBoolean = true;
 // This one's a little tricky - think carefully about what makes a value "undefined"!
-var myUndefined = 5 / 0;
+var myUndefined = x;
 // A:
 
 
